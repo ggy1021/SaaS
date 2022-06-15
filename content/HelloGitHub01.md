@@ -1,4 +1,4 @@
-# 《HelloGitHub》第 01 期
+# 《HelloGitHub》第 010101 期
 > 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
