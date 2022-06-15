@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/ggy1021/Saas/blob/main/02.png"/>
   <br>中文 | <a href="README_en.md">English</a>
-  <br>分享 全球的 初创SaaS产品。<br> 像农民一样耕耘和等待，一切便会按时节开花结果。
+  <br>分享 天使轮公司的 SaaS 产品。<br> 像农民一样耕耘和等待，一切便会按时节开花结果。
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## 简介
 
-ProductHunt 分享 GitHub 上有趣、入门级的开源项目。**每月 28 号**以月刊的形式[更新发布](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA5MzYyNzQ0MQ==&action=getalbum&album_id=1331197538447310849#wechat_redirect)，内容包括：**有趣、入门级的开源项目**、**开源书籍**、**实战项目**、**企业级项目**等，让你用很短时间感受到开源的魅力，爱上开源！
+ProductHunt 分享分享 天使轮公司的 SaaS 产品。**每周 2️⃣ ** 以周刊的形式[更新发布](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA5MzYyNzQ0MQ==&action=getalbum&album_id=1331197538447310849#wechat_redirect)，内容包括：**有趣、入门级的开源项目**、**开源书籍**、**实战项目**、**企业级项目**等，让你用很短时间感受到开源的魅力，爱上开源！
 
 ## 内容
 获得更好的阅读体验 [官网](https://hellogithub.com) 或 [HelloGitHub 公众号]Pros://cdn.jsdelivr.net/gh/521xueweihan/img_logo@main/logo/weixin.png)
