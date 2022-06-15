@@ -1,5 +1,5 @@
-# 《HelloGitHub》第 010101 期
-> 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
+# 《Product Hunt》第 01 期
+> 像农民一样耕耘和等待，**Product Hunt** 一切便会按时节开花结果！
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
 </p>
