@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/521xueweihan/img_logo@main/logo/readme.gif"/>
+  <img src="https://github.com/ggy1021/Saas/blob/main/02.png"/>
   <br>中文 | <a href="README_en.md">English</a>
   <br>分享 全球的 初创SaaS产品。<br> 像农民一样耕耘和等待，一切便会按时节开花结果。
 </p>
