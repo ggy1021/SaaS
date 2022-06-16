@@ -24,7 +24,9 @@
 
 Softr Mobile
 0代码创建页面应用程序，并一键转换成移动端APP
-基于您在airtable 或 googlesheet 中的数据轻松搭建web应用，通过softr可以一键转换成移动端APP，即刻支持安卓&IOS设备。
+基于您在airtable 或 googlesheet 中的数据轻松搭建web应用
+通过softr可以一键转换成移动端APP
+且无需任何改动，即刻支持安卓&IOS设备。
 
 <p align="center"><img src='https://github.com/ggy1021/Saas/blob/main/img/PH01/1.png' style="max-width:80%; max-height=80%;"></img></p>
 
