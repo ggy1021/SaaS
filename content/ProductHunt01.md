@@ -23,7 +23,8 @@
 1、[softr](https://www.softr.io/)：搭建企业应用，如乐高般简单
 
 Softr Mobile
-创建由Airtable数据支持的移动应用程序，无需代码。只需点击一个按钮，就可以将你的soft -built网页应用变成一个功能齐全的移动应用。无需额外的努力，就可以立即在苹果和Android设备上使用。由Softr在生产力，开发工具，无代码中推出 
+0代码创建页面应用程序，并一键转换成移动端APP
+基于您在airtable 或 googlesheet 中的数据轻松搭建web应用，通过softr可以一键转换成移动端APP，即刻支持安卓&IOS设备。
 
 <p align="center"><img src='https://github.com/ggy1021/Saas/blob/main/img/PH01/1.png' style="max-width:80%; max-height=80%;"></img></p>
 
