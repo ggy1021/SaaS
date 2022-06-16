@@ -21,6 +21,11 @@
 
 ### 最新
 1、[typo.css](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sofish/typo.css)：中文网页重设与排版，为了一致化浏览器排版效果，构建最适合中文阅读的网页排版。包括桌面和移动平台，[预览](http://typo.sofi.sh/)
+Softr Mobile
+Create Airtable powered mobile apps, without code
+Create mobile apps powered by your Airtable data, without code.
+At the click of a button turn your Softr-built web app into a fully functional mobile app. Immediately made available on both Apple and Android devices without the extra effort.
+Launched in Productivity, Developer Tools, No-Code by Softr
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
