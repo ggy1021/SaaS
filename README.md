@@ -34,7 +34,7 @@ ProductHunt 分享分享 天使轮公司的 SaaS 产品。**每周 2️⃣ ** �
         <a href="https://partner.aliyun.com/shop/1456925889020906/newusers?spm=a2cbv.aps.0.0.226b561cUyUBwk">
           <img src="https://cdn.jsdelivr.net/gh/521xueweihan/img_logo@main/logo/ucloud.png" width="60px"><br>
           <sub>甄选服务</sub><br>
-          <sub>只为初创SaaS企业而来</sub>
+          <sub>专注SaaS</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">
