@@ -22,9 +22,8 @@
 ### 最新
 1、[softr](https://www.softr.io/)：**搭建企业应用，如乐高般简单。**
 
-0代码创建页面应用程序，并一键转换成移动端APP。 
-基于您在airtable 或 googlesheet 中的数据轻松搭建web应用；
-
+0代码创建页面应用程序，并一键转换成移动端APP。 <br>
+基于您在airtable 或 googlesheet 中的数据轻松搭建web应用；<br>
 **softr** 可一键将其转换成移动端APP，无需任何改动，即刻支持安卓&IOS设备。
 
 <p align="center"><img src='https://github.com/ggy1021/Saas/blob/main/img/PH01/1.png' style="max-width:80%; max-height=80%;"></img></p>
@@ -33,10 +32,8 @@
 
 2、[AutoCloud 2.0](https://www.autocloud.io/?ref=producthunt)：**让DevOps团队 轻松搞定多云融合。**
 
-AutoCloud帮助DevOps团队高效部署符合业务需求的生产环境。
-
-AutoCloud allows DevOps teams to automatically generate secure, production-ready IAC customized to their business needs. 
-Once deployed, get multi-cloud visibility with detailed diagrams and a GraphQL API, plus compliance, security, and networking analysis.
+AutoCloud：自动化配置与编排符合业务需求的环境。<br>
+基于基础设施即代码（IAC） 理念 AutoCloud助力运维团队实现自动化部署，使云上运维工作更为高效，安全。
 
 <p align="center"><img src='https://github.com/ggy1021/Saas/blob/main/img/PH01/01.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
