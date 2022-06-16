@@ -8,7 +8,7 @@
 
 **Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/01/) 获取更好的阅读体验。
 
-- [CSS ](#CSS-)
+- [CSS 项目](#CSS-项目)
 - [JavaScript 项目](#JavaScript-项目)
 - [Python 项目](#Python-项目)
 - [其它](#其它)
