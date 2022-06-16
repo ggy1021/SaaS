@@ -39,7 +39,7 @@ ProductHunt 分享分享 天使轮公司的 SaaS 产品。**每周 2️⃣ ** �
       </th>
       <th align="center" style="width: 80px;">
         <a href="https://partner.aliyun.com/shop/1456925889020906?spm=a2cbv.aps.0.0.226b561cUyUBwk">
-          <img src="https://github.com/ggy1021/Saas/blob/main/logo%20ali2.jpg" width="60px"><br>
+          <img src="https://github.com/ggy1021/Saas/blob/main/logo%20ali.jpg" width="60px"><br>
           <sub>企业上云</sub><br>
           <sub>应有尽有</sub>
         </a>
