@@ -31,17 +31,17 @@ ProductHunt 分享分享 天使轮公司的 SaaS 产品。**每周 2️⃣ ** �
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592">
+        <a href="https://partner.aliyun.com/shop/1456925889020906/newusers?spm=a2cbv.aps.0.0.226b561cUyUBwk">
           <img src="https://cdn.jsdelivr.net/gh/521xueweihan/img_logo@main/logo/ucloud.png" width="60px"><br>
-          <sub>云主机</sub><br>
-          <sub>仅 4 元/月</sub>
+          <sub>甄选服务</sub><br>
+          <sub>只为初创SaaS企业而来</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://partner.aliyun.com/shop/1456925889020906?spm=a2cbv.aps.0.0.226b561cUyUBwk">
           <img src="https://cdn.jsdelivr.net/gh/521xueweihan/img_logo@main/logo/upyun.png" width="60px"><br>
-          <sub>CDN</sub><br>
-          <sub>开启全网加速</sub>
+          <sub>企业上云</sub><br>
+          <sub>应有尽有</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">
