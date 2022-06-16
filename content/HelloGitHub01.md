@@ -17,11 +17,6 @@
 
 - [返回首页](https://github.com/ggy1021/Saas)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-关注「HelloGitHub」公众号，第一时间收到推送
-</p>
-
 ## 内容
 > **以下为本期内容**｜每个月 **28** 号更新
 
