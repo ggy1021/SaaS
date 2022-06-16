@@ -11,7 +11,6 @@
 - [最新](#最新)
 - [拾遗](#拾遗)
 - [实战](#实战)
-- [To B](#To B)
 - [书单](#书单)
 
 
@@ -54,20 +53,6 @@
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/beijing_bus.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
-### To B
-9、[archey-osx](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/obihann/archey-osx)：命令行中显示 Mac OS X 计算机的基本信息
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/archey-osx.png' style="max-width:80%; max-height=80%;"></img></p>
-
-10、[Learning-SICP](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/DeathKing/Learning-SICP)：《计算机程序的构造和解释》公开课
-
-11、[awesome-python-cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jobbole/awesome-python-cn)：awesome-python 中文版
-
-12、[github](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/phodal/github)：《GitHub 漫游指南》该指南能够让新手学会如何使用 GitHub 网站，从而加入到开源社区。phodal 从他和 GitHub 的青涩故事写起，全方位地介绍了 GitHub 这个网站，以及如何合理地使用这个网站
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
