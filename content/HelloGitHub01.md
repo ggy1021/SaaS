@@ -9,10 +9,10 @@
 **Tips**：本站赞助商产品 | [视频消息](https://www.sikadeer.net/) | [Oncall工单](https://ticket.handiansoft.net/)  | 感谢大家支持！
 
 - [最新](#最新)
-- [拾遗](#JavaScript-项目)
-- [实战](#Python-项目)
-- [To B](#其它)
-- [书单](#开源书籍)
+- [拾遗](#拾遗)
+- [实战](#实战)
+- [To B](#To B)
+- [书单](#书单)
 
 
 - [返回首页](https://github.com/ggy1021/Saas)
@@ -25,7 +25,7 @@
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
-### JavaScript 项目
+### 拾遗
 2、[ant-design](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ant-design/ant-design)：阿里开源的一套企业级的 UI 设计语言和 React 实现。[中文文档](https://ant.design/docs/react/introduce-cn)，样式偏向于后端，展示效果十分漂亮
 
 3、[VeryNginx](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alexazhou/VeryNginx)：一个功能强大而对人类友好的 Nginx 扩展程序。[VeryNginx 文档](https://github.com/alexazhou/VeryNginx/blob/master/readme_zh.md)
@@ -40,7 +40,7 @@
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
-### Python 项目
+### 实战
 5、[awesome-python-webapp](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/michaelliao/awesome-python-webapp)：廖老师的 Python 入门教程中的实践项目的代码，[教程在线阅读](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/001397616003925a3d157284cd24bc0952d6c4a7c9d8c55000)
 
 6、[Minos](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/phith0n/Minos)：一个基于 Tornado/MongoDB/Redis 的社区系统
@@ -57,7 +57,7 @@
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
-### 其它
+### To B
 9、[archey-osx](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/obihann/archey-osx)：命令行中显示 Mac OS X 计算机的基本信息
 
 
@@ -71,7 +71,7 @@
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
-### 开源书籍
+### 书单
 13、[interpy-zh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/eastlakeside/interpy-zh)：《Python 进阶中文版》，[在线阅读](https://eastlakeside.gitbooks.io/interpy-zh/content/)
 
 14、[python3-cookbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yidao620c/python3-cookbook)：《Python Cookbook 3rd 中文版》，[在线阅读](http://python3-cookbook.readthedocs.org/zh_CN/latest/)
