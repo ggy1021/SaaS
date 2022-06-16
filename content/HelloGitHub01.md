@@ -8,7 +8,7 @@
 
 **Tips**：本站赞助商产品 | [视频消息](https://www.sikadeer.net/) | [Oncall工单](https://ticket.handiansoft.net/)  | 感谢大家支持！
 
-- [最新](#CSS-项目)
+- [最新](#最新)
 - [拾遗](#JavaScript-项目)
 - [实战](#Python-项目)
 - [To B](#其它)
@@ -20,7 +20,7 @@
 ## 内容
 > **以下为本期内容**｜每周 **周二** 更新
 
-### CSS 项目
+### 最新
 1、[typo.css](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sofish/typo.css)：中文网页重设与排版，为了一致化浏览器排版效果，构建最适合中文阅读的网页排版。包括桌面和移动平台，[预览](http://typo.sofi.sh/)
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
