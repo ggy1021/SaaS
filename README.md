@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ggy1021/Saas/blob/main/02.png"/>
+  <img src="https://github.com/ggy1021/Saas/blob/main/img/01.png"/>
   <br>中文 | <a href="README_en.md">English</a>
   <br>分享 天使轮公司的 SaaS 产品。<br> 像农民一样耕耘和等待，一切便会按时节开花结果。
 </p>
