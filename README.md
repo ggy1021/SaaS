@@ -16,7 +16,7 @@
 ProductHunt 分享分享 天使轮公司的 SaaS 产品。**每周 2️⃣ ** 以周刊的形式[更新发布](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA5MzYyNzQ0MQ==&action=getalbum&album_id=1331197538447310849#wechat_redirect)，内容包括：**最新SaaS产品**、**产品书单**、**实战项目**、**TO B漫谈**等，做有价值的事，等待美好发生
 
 ## 内容
-本站赞助商产品 ： | [视频消息](https://www.sikadeer.net/) | [Oncall工单](https://ticket.handiansoft.net/)  | 感谢大家支持！
+本站赞助商产品 | [视频消息](https://www.sikadeer.net/) | [Oncall工单](https://ticket.handiansoft.net/)  | 感谢大家支持！
 
 | :card_index: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
@@ -42,13 +42,6 @@ ProductHunt 分享分享 天使轮公司的 SaaS 产品。**每周 2️⃣ ** �
           <img src="https://github.com/ggy1021/Saas/blob/main/logo%20ali.jpg" width="60px"><br>
           <sub>企业上云</sub><br>
           <sub>应有尽有</sub>
-        </a>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://doc.rentsoft.cn/">
-          <img src="https://cdn.jsdelivr.net/gh/521xueweihan/img_logo@main/logo/im.png" width="60px"><br>
-          <sub>OpenIM</sub><br>
-          <sub>开源IM力争No.1</sub>
         </a>
       </th>
     </tr>
