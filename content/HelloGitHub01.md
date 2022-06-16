@@ -20,7 +20,8 @@
 > **以下为本期内容**｜每周 **周二** 更新
 
 ### 最新
-1、[softr](https://www.softr.io/)：搭建企业应用，如乐高般简单 [预览](https://www.softr.io/)
+1、[softr](https://www.softr.io/)：搭建企业应用，如乐高般简单
+
 Softr Mobile
 创建由Airtable数据支持的移动应用程序，无需代码。只需点击一个按钮，就可以将你的soft -built网页应用变成一个功能齐全的移动应用。无需额外的努力，就可以立即在苹果和Android设备上使用。由Softr在生产力，开发工具，无代码中推出 
 
