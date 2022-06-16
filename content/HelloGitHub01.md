@@ -20,7 +20,7 @@
 > **以下为本期内容**｜每周 **周二** 更新
 
 ### 最新
-1、[typo.css](https://www.softr.io/)：中文网页重设与排版，为了一致化浏览器排版效果，构建最适合中文阅读的网页排版。包括桌面和移动平台，[预览](https://www.softr.io/)
+1、[softr](https://www.softr.io/)：中文网页重设与排版，为了一致化浏览器排版效果，构建最适合中文阅读的网页排版。包括桌面和移动平台，[预览](https://www.softr.io/)
 Softr Mobile
 Create Airtable powered mobile apps, without code
 Create mobile apps powered by your Airtable data, without code.
