@@ -6,12 +6,12 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/01/) 获取更好的阅读体验。
+**Tips**：本站赞助商产品 | 视频消息 | Oncall工单 | 感谢大家支持！
 
 - [最新](#CSS-项目)
 - [拾遗](#JavaScript-项目)
 - [实战](#Python-项目)
-- [ToB](#其它)
+- [To B](#其它)
 - [书单](#开源书籍)
 
 
