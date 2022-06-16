@@ -39,7 +39,7 @@ AutoCloud帮助DevOps团队高效部署符合业务需求的生产环境。
 AutoCloud allows DevOps teams to automatically generate secure, production-ready IAC customized to their business needs. 
 Once deployed, get multi-cloud visibility with detailed diagrams and a GraphQL API, plus compliance, security, and networking analysis.
 
-<p align="center"><img src='https://github.com/ggy1021/Saas/blob/main/img/PH01/1.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://github.com/ggy1021/Saas/blob/main/img/PH01/01.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 ### 拾遗
