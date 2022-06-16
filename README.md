@@ -21,7 +21,7 @@ ProductHunt 分享分享 天使轮公司的 SaaS 产品。**每周 2️⃣ ** �
 | :card_index: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
 | [第 74 期](/content/HelloGitHub74.md) | [第 73 期](/content/HelloGitHub73.md) | [第 72 期](/content/HelloGitHub72.md) | [第 71 期](/content/HelloGitHub71.md) |
-| [第 05 期](/content/HelloGitHub05.md) | [第 04 期](/content/HelloGitHub04.md) | [第 03 期](/content/HelloGitHub03.md) | [第 02 期](/content/HelloGitHub02.md) | [第 01 期](/content/HelloGitHub01.md) |
+| [第 05 期](/content/HelloGitHub05.md) | [第 04 期](/content/HelloGitHub04.md) | [第 03 期](/content/HelloGitHub03.md) | [第 02 期](/content/HelloGitHub02.md) | [第 01 期](/content/ProductHunt01.md) |
 
 欢迎[推荐或自荐](https://github.com/521xueweihan/HelloGitHub/issues/new)产品入选 **Product Hunt** 的[甄选录](https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md)
 
