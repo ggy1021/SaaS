@@ -6,7 +6,7 @@
 
 ## 目录
 
-**Tips**：本站赞助商产品 | 视频消息 | Oncall工单 | 感谢大家支持！
+**Tips**：本站赞助商产品 | [视频消息](https://www.sikadeer.net/) | [Oncall工单](https://ticket.handiansoft.net/)  | 感谢大家支持！
 
 - [最新](#CSS-项目)
 - [拾遗](#JavaScript-项目)
