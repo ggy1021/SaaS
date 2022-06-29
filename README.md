@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/521xueweihan/img_logo@main/logo/weixin.png"><img src="https://img.shields.io/badge/Talk-%E5%BE%AE%E4%BF%A1%E7%BE%A4-brightgreen.svg?style=popout-square" alt="WeiXin"></a>
+  <a href="https://cdn.jsdelivr.net/gh/521xueweihan/img_logo@main/logo/weixin.png"><img src="https://github.com/ggy1021/SaaS/blob/main/img/wx/629.jpg" alt="WeiXin"></a>
 </p>
 
 ## 简介
